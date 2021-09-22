@@ -1,4 +1,4 @@
-module gosub
+module github.com/garethjevans/gosub
 
 go 1.16
 
