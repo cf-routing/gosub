@@ -1,4 +1,4 @@
-module github.com/garethjevans/gosub
+module github.com/cf-routing/gosub
 
 go 1.16
 
